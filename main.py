@@ -187,4 +187,4 @@ with gr.Blocks(title="iBoothMe Event Ideation App") as demo:
         show_progress=True
     )
 
-demo.launch(inline=False)
+demo.launch(inline=False,share=True)
